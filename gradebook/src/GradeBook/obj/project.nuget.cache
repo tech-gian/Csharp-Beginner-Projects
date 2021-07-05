@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aoMiJ0YRhrOGr3wsiNKel8K6uy6oFHvEdTQDFiUTIIajfOCgf8PjdE3g0ws3LQD7ccTyXGFzxKUTz2BsdyqeGg==",
+  "dgSpecHash": "J4uFMbMZHt71XmA+D2UB14v6vQHWrS2B330Y5EuVAx1UnHCshVU/9bLx6q3IX6f1WphiL+pt+qvURWMnFrmKgw==",
   "success": true,
-  "projectFilePath": "/home/tech-gian/Desktop/gradebook/src/GradeBook/GradeBook.csproj",
+  "projectFilePath": "/home/tech-gian/Desktop/Csharp-Beginner-Projects/gradebook/src/GradeBook/GradeBook.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

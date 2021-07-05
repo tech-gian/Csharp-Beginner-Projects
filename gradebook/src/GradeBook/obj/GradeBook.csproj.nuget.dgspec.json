@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/tech-gian/Desktop/gradebook/src/GradeBook/GradeBook.csproj": {}
+    "/home/tech-gian/Desktop/Csharp-Beginner-Projects/gradebook/src/GradeBook/GradeBook.csproj": {}
   },
   "projects": {
-    "/home/tech-gian/Desktop/gradebook/src/GradeBook/GradeBook.csproj": {
+    "/home/tech-gian/Desktop/Csharp-Beginner-Projects/gradebook/src/GradeBook/GradeBook.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/tech-gian/Desktop/gradebook/src/GradeBook/GradeBook.csproj",
+        "projectUniqueName": "/home/tech-gian/Desktop/Csharp-Beginner-Projects/gradebook/src/GradeBook/GradeBook.csproj",
         "projectName": "GradeBook",
-        "projectPath": "/home/tech-gian/Desktop/gradebook/src/GradeBook/GradeBook.csproj",
+        "projectPath": "/home/tech-gian/Desktop/Csharp-Beginner-Projects/gradebook/src/GradeBook/GradeBook.csproj",
         "packagesPath": "/home/tech-gian/.nuget/packages/",
-        "outputPath": "/home/tech-gian/Desktop/gradebook/src/GradeBook/obj/",
+        "outputPath": "/home/tech-gian/Desktop/Csharp-Beginner-Projects/gradebook/src/GradeBook/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/tech-gian/.nuget/NuGet/NuGet.Config"
