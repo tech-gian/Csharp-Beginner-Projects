@@ -3,11 +3,25 @@ using System.Collections.Generic;
 
 namespace GradeBook {
     
+    public delegate void GradeAddedDelegate(object sender, EventArgs args);
+
     public class Book {
         // With or without the private keyword, is the same thing
         private List<double> grades;
-        public string Name;
+
+        // Auto get-set property
+        public string Name {
+            // get and set can be private
+            get;
+            set;
+        }
+
+        // Can only be initialized or changed in the constructor
+        readonly string category = "Science";
+        // instead of readonly, there is const (can't be changed anywhere)
         
+
+
         // Constructor
         public Book(string name) {
             grades = new List<double>();
@@ -33,9 +47,15 @@ namespace GradeBook {
             }
         }
 
+        public event GradeAddedDelegate GradeAdded;
+
         public void AddGrade(double grade) {
             if (grade <= 100 && grade >= 0) {
                 grades.Add(grade);
+                if (GradeAdded != null) {
+                    GradeAdded(this, new EventArgs());
+                }
+                
             }
             else {
                 throw new ArgumentException($"Invalid {nameof(grade)}");
