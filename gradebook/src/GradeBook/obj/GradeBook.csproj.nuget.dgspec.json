@@ -1,27 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "/home/tech-gian/Desktop/Csharp-Beginner-Projects/gradebook/src/GradeBook/GradeBook.csproj": {}
+    "C:\\Users\\zapan\\Desktop\\General\\Programs\\git\\Csharp-Beginner-Projects\\gradebook\\src\\GradeBook\\GradeBook.csproj": {}
   },
   "projects": {
-    "/home/tech-gian/Desktop/Csharp-Beginner-Projects/gradebook/src/GradeBook/GradeBook.csproj": {
+    "C:\\Users\\zapan\\Desktop\\General\\Programs\\git\\Csharp-Beginner-Projects\\gradebook\\src\\GradeBook\\GradeBook.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/tech-gian/Desktop/Csharp-Beginner-Projects/gradebook/src/GradeBook/GradeBook.csproj",
+        "projectUniqueName": "C:\\Users\\zapan\\Desktop\\General\\Programs\\git\\Csharp-Beginner-Projects\\gradebook\\src\\GradeBook\\GradeBook.csproj",
         "projectName": "GradeBook",
-        "projectPath": "/home/tech-gian/Desktop/Csharp-Beginner-Projects/gradebook/src/GradeBook/GradeBook.csproj",
-        "packagesPath": "/home/tech-gian/.nuget/packages/",
-        "outputPath": "/home/tech-gian/Desktop/Csharp-Beginner-Projects/gradebook/src/GradeBook/obj/",
+        "projectPath": "C:\\Users\\zapan\\Desktop\\General\\Programs\\git\\Csharp-Beginner-Projects\\gradebook\\src\\GradeBook\\GradeBook.csproj",
+        "packagesPath": "C:\\Users\\zapan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\zapan\\Desktop\\General\\Programs\\git\\Csharp-Beginner-Projects\\gradebook\\src\\GradeBook\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/tech-gian/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\zapan\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
-        "sources": {
-          "https://api.nuget.org/v3/index.json": {}
-        },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
@@ -52,7 +49,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.301/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }
