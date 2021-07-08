@@ -1,0 +1,13 @@
+C:\Users\zapan\Desktop\General\Programs\C#\LinqSamples\Queries\bin\Debug\netcoreapp3.1\Queries.exe
+C:\Users\zapan\Desktop\General\Programs\C#\LinqSamples\Queries\bin\Debug\netcoreapp3.1\Queries.deps.json
+C:\Users\zapan\Desktop\General\Programs\C#\LinqSamples\Queries\bin\Debug\netcoreapp3.1\Queries.runtimeconfig.json
+C:\Users\zapan\Desktop\General\Programs\C#\LinqSamples\Queries\bin\Debug\netcoreapp3.1\Queries.runtimeconfig.dev.json
+C:\Users\zapan\Desktop\General\Programs\C#\LinqSamples\Queries\bin\Debug\netcoreapp3.1\Queries.dll
+C:\Users\zapan\Desktop\General\Programs\C#\LinqSamples\Queries\bin\Debug\netcoreapp3.1\Queries.pdb
+C:\Users\zapan\Desktop\General\Programs\C#\LinqSamples\Queries\obj\Debug\netcoreapp3.1\Queries.csproj.AssemblyReference.cache
+C:\Users\zapan\Desktop\General\Programs\C#\LinqSamples\Queries\obj\Debug\netcoreapp3.1\Queries.AssemblyInfoInputs.cache
+C:\Users\zapan\Desktop\General\Programs\C#\LinqSamples\Queries\obj\Debug\netcoreapp3.1\Queries.AssemblyInfo.cs
+C:\Users\zapan\Desktop\General\Programs\C#\LinqSamples\Queries\obj\Debug\netcoreapp3.1\Queries.csproj.CoreCompileInputs.cache
+C:\Users\zapan\Desktop\General\Programs\C#\LinqSamples\Queries\obj\Debug\netcoreapp3.1\Queries.dll
+C:\Users\zapan\Desktop\General\Programs\C#\LinqSamples\Queries\obj\Debug\netcoreapp3.1\Queries.pdb
+C:\Users\zapan\Desktop\General\Programs\C#\LinqSamples\Queries\obj\Debug\netcoreapp3.1\Queries.genruntimeconfig.cache
