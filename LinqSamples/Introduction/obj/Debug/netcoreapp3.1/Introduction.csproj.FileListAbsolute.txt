@@ -1,0 +1,13 @@
+C:\Users\zapan\Desktop\General\Programs\C#\LinqSamples\Introduction\bin\Debug\netcoreapp3.1\Introduction.exe
+C:\Users\zapan\Desktop\General\Programs\C#\LinqSamples\Introduction\bin\Debug\netcoreapp3.1\Introduction.deps.json
+C:\Users\zapan\Desktop\General\Programs\C#\LinqSamples\Introduction\bin\Debug\netcoreapp3.1\Introduction.runtimeconfig.json
+C:\Users\zapan\Desktop\General\Programs\C#\LinqSamples\Introduction\bin\Debug\netcoreapp3.1\Introduction.runtimeconfig.dev.json
+C:\Users\zapan\Desktop\General\Programs\C#\LinqSamples\Introduction\bin\Debug\netcoreapp3.1\Introduction.dll
+C:\Users\zapan\Desktop\General\Programs\C#\LinqSamples\Introduction\bin\Debug\netcoreapp3.1\Introduction.pdb
+C:\Users\zapan\Desktop\General\Programs\C#\LinqSamples\Introduction\obj\Debug\netcoreapp3.1\Introduction.csproj.AssemblyReference.cache
+C:\Users\zapan\Desktop\General\Programs\C#\LinqSamples\Introduction\obj\Debug\netcoreapp3.1\Introduction.AssemblyInfoInputs.cache
+C:\Users\zapan\Desktop\General\Programs\C#\LinqSamples\Introduction\obj\Debug\netcoreapp3.1\Introduction.AssemblyInfo.cs
+C:\Users\zapan\Desktop\General\Programs\C#\LinqSamples\Introduction\obj\Debug\netcoreapp3.1\Introduction.csproj.CoreCompileInputs.cache
+C:\Users\zapan\Desktop\General\Programs\C#\LinqSamples\Introduction\obj\Debug\netcoreapp3.1\Introduction.dll
+C:\Users\zapan\Desktop\General\Programs\C#\LinqSamples\Introduction\obj\Debug\netcoreapp3.1\Introduction.pdb
+C:\Users\zapan\Desktop\General\Programs\C#\LinqSamples\Introduction\obj\Debug\netcoreapp3.1\Introduction.genruntimeconfig.cache
