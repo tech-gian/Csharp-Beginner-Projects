@@ -1,0 +1,13 @@
+C:\Users\zapan\Desktop\General\Programs\C#\Collections\Collections\bin\Debug\netcoreapp3.1\Collections.exe
+C:\Users\zapan\Desktop\General\Programs\C#\Collections\Collections\bin\Debug\netcoreapp3.1\Collections.deps.json
+C:\Users\zapan\Desktop\General\Programs\C#\Collections\Collections\bin\Debug\netcoreapp3.1\Collections.runtimeconfig.json
+C:\Users\zapan\Desktop\General\Programs\C#\Collections\Collections\bin\Debug\netcoreapp3.1\Collections.runtimeconfig.dev.json
+C:\Users\zapan\Desktop\General\Programs\C#\Collections\Collections\bin\Debug\netcoreapp3.1\Collections.dll
+C:\Users\zapan\Desktop\General\Programs\C#\Collections\Collections\bin\Debug\netcoreapp3.1\Collections.pdb
+C:\Users\zapan\Desktop\General\Programs\C#\Collections\Collections\obj\Debug\netcoreapp3.1\Collections.csproj.AssemblyReference.cache
+C:\Users\zapan\Desktop\General\Programs\C#\Collections\Collections\obj\Debug\netcoreapp3.1\Collections.AssemblyInfoInputs.cache
+C:\Users\zapan\Desktop\General\Programs\C#\Collections\Collections\obj\Debug\netcoreapp3.1\Collections.AssemblyInfo.cs
+C:\Users\zapan\Desktop\General\Programs\C#\Collections\Collections\obj\Debug\netcoreapp3.1\Collections.csproj.CoreCompileInputs.cache
+C:\Users\zapan\Desktop\General\Programs\C#\Collections\Collections\obj\Debug\netcoreapp3.1\Collections.dll
+C:\Users\zapan\Desktop\General\Programs\C#\Collections\Collections\obj\Debug\netcoreapp3.1\Collections.pdb
+C:\Users\zapan\Desktop\General\Programs\C#\Collections\Collections\obj\Debug\netcoreapp3.1\Collections.genruntimeconfig.cache
