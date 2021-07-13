@@ -88,3 +88,7 @@ C:\Users\zapan\Desktop\General\Programs\C#\OdeToFood\OdeToFood\bin\Debug\netcore
 C:\Users\zapan\Desktop\General\Programs\C#\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\Razor\Pages\Restaurants\Delete.cshtml.g.cs
 C:\Users\zapan\Desktop\General\Programs\C#\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\Razor\Pages\Restaurants\_Summary.cshtml.g.cs
 C:\Users\zapan\Desktop\General\Programs\C#\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\Components\RestaurantCount\Default.cshtml.g.cs
+C:\Users\zapan\Desktop\General\Programs\C#\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\package-lock.json
+C:\Users\zapan\Desktop\General\Programs\C#\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\package.json
+C:\Users\zapan\Desktop\General\Programs\C#\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\OdeToCode.UseNodeModules.dll
+C:\Users\zapan\Desktop\General\Programs\C#\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\Razor\Pages\Restaurants\ClientRestaurants.cshtml.g.cs

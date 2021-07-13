@@ -34,6 +34,7 @@
           "Microsoft.EntityFrameworkCore": "5.0.7",
           "Microsoft.EntityFrameworkCore.Design": "5.0.7",
           "Microsoft.EntityFrameworkCore.SqlServer": "5.0.7",
+          "OdeToCode.UseNodeModules": "3.0.0",
           "OdeToFood.Data": "1.0.0",
           "Microsoft.AspNetCore.Antiforgery": "3.1.0.0",
           "Microsoft.AspNetCore.Authentication.Abstractions": "3.1.0.0",
@@ -747,6 +748,17 @@
         },
         "compile": {
           "lib/netstandard1.3/Newtonsoft.Json.dll": {}
+        }
+      },
+      "OdeToCode.UseNodeModules/3.0.0": {
+        "runtime": {
+          "lib/netcoreapp3.0/OdeToCode.UseNodeModules.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.0.0.0"
+          }
+        },
+        "compile": {
+          "lib/netcoreapp3.0/OdeToCode.UseNodeModules.dll": {}
         }
       },
       "runtime.native.System/4.3.0": {
@@ -3250,6 +3262,13 @@
       "sha512": "sha512-ebWzW9j2nwxQeBo59As2TYn7nYr9BHicqqCwHOD1Vdo+50HBtLPuqdiCYJcLdTRknpYis/DSEOQz5KmZxwrIAg==",
       "path": "newtonsoft.json/10.0.1",
       "hashPath": "newtonsoft.json.10.0.1.nupkg.sha512"
+    },
+    "OdeToCode.UseNodeModules/3.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-w1Xdc8oDggU4nucBSnoR4pPT9oHf/JtYGOisaeaFd8jiOoBcByddyuIPmWI2GiNUpXGKMPQROD4wl1aeEZ5aaA==",
+      "path": "odetocode.usenodemodules/3.0.0",
+      "hashPath": "odetocode.usenodemodules.3.0.0.nupkg.sha512"
     },
     "runtime.native.System/4.3.0": {
       "type": "package",
