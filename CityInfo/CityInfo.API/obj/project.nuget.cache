@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "JGPlIsu0S289jAsHul5ig0R4lRgPEfQOmxRLox/uUeJvgZ7c8ZpxWRMmVwlNPaaWP9OLFkfneyOtz5aEmRXscQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zapan\\Desktop\\General\\Programs\\C#\\CityInfo\\CityInfo.API\\CityInfo.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zapan\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\5.0.7\\microsoft.aspnetcore.jsonpatch.5.0.7.nupkg.sha512",
+    "C:\\Users\\zapan\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\zapan\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
