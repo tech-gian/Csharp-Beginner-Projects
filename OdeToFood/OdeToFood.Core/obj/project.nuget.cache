@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "MDobvKlbaND6onBDHtwY7E2Wg5i6Jx3ynqV6R5r4Kjn8pkGgQZE+/qC1ixlUrejEVUdIrLa94PbyFPDXhdY45w==",
+  "dgSpecHash": "sLREHv2CpK6p0DHafrkdnIDXkBBDjCmBjej9yFKv8f+AoBWlz1A+R7Z0gFOM2Jv6xygAByn851ftH/8i+9K1TQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\zapan\\Desktop\\General\\Programs\\C#\\OdeToFood\\OdeToFood.Core\\OdeToFood.Core.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\zapan\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\3.1.16\\microsoft.netcore.app.runtime.win-x64.3.1.16.nupkg.sha512",
+    "C:\\Users\\zapan\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\3.1.16\\microsoft.windowsdesktop.app.runtime.win-x64.3.1.16.nupkg.sha512",
+    "C:\\Users\\zapan\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\3.1.16\\microsoft.aspnetcore.app.runtime.win-x64.3.1.16.nupkg.sha512"
+  ],
   "logs": []
 }
