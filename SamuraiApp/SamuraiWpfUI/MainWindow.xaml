@@ -1,0 +1,44 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SamuraiWpfUI"
+        xmlns:Domain="clr-namespace:SamuraiApp.Domain;assembly=SamuraiApp.Domain" x:Class="SamuraiWpfUI.MainWindow"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" Loaded="Window_Loaded">
+    <Window.Resources>
+        <CollectionViewSource x:Key="samuraiViewSource" d:DesignSource="{d:DesignInstance {x:Type Domain:Samurai}, CreateList=True}"/>
+        <CollectionViewSource x:Key="samuraiQuotesViewSource" Source="{Binding Quotes, Source={StaticResource samuraiViewSource}}"/>
+    </Window.Resources>
+    <Grid DataContext="{StaticResource samuraiViewSource}">
+
+        <DataGrid x:Name="samuraiDataGrid" RowDetailsVisibilityMode="VisibleWhenSelected" Margin="137,20,250,243" ItemsSource="{Binding}" EnableRowVirtualization="True" AutoGenerateColumns="False">
+            <DataGrid.Columns>
+                <DataGridTextColumn x:Name="battleIdColumn" Width="SizeToHeader" Header="Battle Id" Binding="{Binding BattleId}"/>
+                <DataGridTextColumn x:Name="idColumn" Width="SizeToHeader" Header="Id" Binding="{Binding Id}"/>
+                <DataGridTextColumn x:Name="nameColumn" Width="SizeToHeader" Header="Name" Binding="{Binding Name}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Grid x:Name="grid1" HorizontalAlignment="Left" Margin="137,207,0,0" VerticalAlignment="Top">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="34.623"/>
+                <ColumnDefinition Width="91.377"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+            <Label Content="Name:" Grid.Column="0" HorizontalAlignment="Left" Margin="3,3,0,3" Grid.Row="0" VerticalAlignment="Center"/>
+            <TextBox x:Name="nameTextBox" Grid.Column="1" HorizontalAlignment="Left" Height="24" Margin="3,4,0,4" Grid.Row="0" Text="{Binding Name, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" VerticalAlignment="Center" Width="120" Grid.ColumnSpan="2"/>
+        </Grid>
+        <DataGrid x:Name="quotesDataGrid" AutoGenerateColumns="False" EnableRowVirtualization="True" ItemsSource="{Binding Source={StaticResource samuraiQuotesViewSource}}" Margin="142,254,250,25" RowDetailsVisibilityMode="VisibleWhenSelected">
+            <DataGrid.Columns>
+                <DataGridTextColumn x:Name="idColumn1" Binding="{Binding Id}" Header="Id" Width="SizeToHeader"/>
+                <DataGridTextColumn x:Name="samuraiIdColumn" Binding="{Binding SamuraiId}" Header="Samurai Id" Width="SizeToHeader"/>
+                <DataGridTextColumn x:Name="textColumn" Binding="{Binding Text}" Header="Text" Width="SizeToHeader"/>
+            </DataGrid.Columns>
+        </DataGrid>
+
+    </Grid>
+</Window>
